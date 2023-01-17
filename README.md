@@ -7,5 +7,3 @@
  <a href="https://fellipemoraes01.github.io/html-css/LandingPage-MarketingCriativo/index.html">LandingPage-MarketingCriativo</a>
  <a href="https://fellipemoraes01.github.io/html-css/Portfolio%20teste/index.html">Portfolio teste</a>
  <a href="https://fellipemoraes01.github.io/html-css/Site%20Webinar%20de%20TI/index.html">Site Webinar de TI</a>
-
- background-color: blue; 
